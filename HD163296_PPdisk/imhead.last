@@ -1,0 +1,7 @@
+taskname           = "imhead"
+imagename          =  "newtable.fits"
+mode               =  "summary"
+hdkey              =  ""
+hdvalue            =  ""
+verbose            =  False
+#imhead(imagename="newtable.fits",mode="summary",hdkey="",hdvalue="",verbose=False)
