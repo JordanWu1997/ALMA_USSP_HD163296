@@ -1,0 +1,7 @@
+taskname           = "imview"
+raster             =  "fits/ALMA01117198.fits"
+contour            =  {}
+zoom               =  1
+axes               =  {}
+out                =  ""
+#imview(raster="fits/ALMA01117198.fits",contour={},zoom=1,axes={},out="")

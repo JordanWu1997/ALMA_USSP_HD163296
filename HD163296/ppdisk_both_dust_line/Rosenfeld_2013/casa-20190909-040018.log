@@ -1,0 +1,8 @@
+2019-09-09 04:00:20	INFO	::casa	
+2019-09-09 04:00:20	INFO	::casa	CASA Version 5.4.1-32  
+2019-09-09 04:00:32	INFO	imview::::	
+2019-09-09 04:00:32	INFO	imview::::+	##########################################
+2019-09-09 04:00:32	INFO	imview::::+	##### Begin Task: imview             #####
+2019-09-09 04:00:32	INFO	imview::::	imview(raster="SIM_CO3-2_WO_CONT_WI_Conv.fits",contour={},zoom=1,axes={},out="")
+2019-09-09 04:00:33	INFO	imview::::	##### End Task: imview               #####
+2019-09-09 04:00:33	INFO	imview::::+	##########################################

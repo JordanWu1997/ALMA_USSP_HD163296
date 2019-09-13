@@ -1,0 +1,7 @@
+taskname           = "imhead"
+imagename          =  "fits/ALMA01117198.fits"
+mode               =  "summary"
+hdkey              =  ""
+hdvalue            =  ""
+verbose            =  False
+#imhead(imagename="fits/ALMA01117198.fits",mode="summary",hdkey="",hdvalue="",verbose=False)

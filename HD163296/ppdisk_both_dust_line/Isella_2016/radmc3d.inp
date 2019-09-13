@@ -1,0 +1,5 @@
+nphot = 1000000
+scattering_mode_max = 1
+modified_random_walk = 1
+tgas_eq_tdust = 0
+iranfreqmode = 1

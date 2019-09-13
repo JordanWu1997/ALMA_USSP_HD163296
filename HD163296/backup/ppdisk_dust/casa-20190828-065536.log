@@ -1,0 +1,36 @@
+
+2019-08-28 06:55:38	INFO	::casa	
+2019-08-28 06:55:38	INFO	::casa	CASA Version 5.4.1-32  
+2019-08-28 06:55:47	INFO	imhead::::	
+2019-08-28 06:55:47	INFO	imhead::::+	##########################################
+2019-08-28 06:55:47	INFO	imhead::::+	##### Begin Task: imhead             #####
+2019-08-28 06:55:47	INFO	imhead::::	imhead(imagename="fits/ALMA01117198.fits",mode="summary",hdkey="",hdvalue="",verbose=False)
+2019-08-28 06:55:47	INFO	ImageMetaData::summary	
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	Image name       : ALMA01117198.fits
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	Object name      : HD_163296
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	Image type       : FITSImage
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	Image quantity   : Intensity
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	Pixel mask(s)    : Parent is masked
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	Region(s)        : None
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	Image units      : Jy/beam
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	Restoring Beam   : 0.273661 arcsec, 0.18321 arcsec, -87.8557 deg
+2019-08-28 06:55:47	INFO	ImageMetaData::summary	
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	Direction reference : J2000
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	Spectral  reference : TOPO
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	Velocity  type      : RADIO
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	Rest frequency      : 2.30538e+11 Hz
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	Pointing center     :  17:56:21.279088  -21.57.22.481329
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	Telescope           : ALMA
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	Observer            : isella
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	Date observation    : 2015/08/05/04:33:49
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	Telescope position: [2.22514e+06m, -5.44031e+06m, -2.48103e+06m] (ITRF)
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	Axis Coord Type      Name             Proj Shape Tile   Coord value at pixel          Coord incr Units
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	------------------------------------------------------------------------------------------------------ 
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	0    0     Direction Right Ascension   SIN   960  960  17:56:21.279   480.00       -3.000000e-02 arcsec
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	1    0     Direction Declination       SIN   960   32 -21.57.22.481   480.00        3.000000e-02 arcsec
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	2    2     Spectral  Frequency                 1    1   2.26054e+11     0.00 1.3068433472160e+10 Hz
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	                     Velocity                               5831.24     0.00       -1.699424e+04 km/s
+2019-08-28 06:55:47	INFO	ImageMetaData::summary+	3    1     Stokes    Stokes                    1    1             I
+2019-08-28 06:55:47	INFO	imhead::::	##### End Task: imhead               #####
+2019-08-28 06:55:47	INFO	imhead::::+	##########################################

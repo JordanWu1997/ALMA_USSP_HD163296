@@ -1,0 +1,7 @@
+taskname           = "imview"
+raster             =  "SIM_CO3-2_WO_CONT_WI_Conv.fits"
+contour            =  {}
+zoom               =  1
+axes               =  {}
+out                =  ""
+#imview(raster="SIM_CO3-2_WO_CONT_WI_Conv.fits",contour={},zoom=1,axes={},out="")
