@@ -1,7 +1,0 @@
-taskname           = "imview"
-raster             =  "HD163296_Cube_Vt=0KM.fits"
-contour            =  {}
-zoom               =  1
-axes               =  {}
-out                =  ""
-#imview(raster="HD163296_Cube_Vt=0KM.fits",contour={},zoom=1,axes={},out="")

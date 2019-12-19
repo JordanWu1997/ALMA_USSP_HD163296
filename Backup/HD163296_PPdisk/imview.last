@@ -1,7 +1,0 @@
-taskname           = "imview"
-raster             =  "newtable.fits"
-contour            =  {}
-zoom               =  1
-axes               =  {}
-out                =  ""
-#imview(raster="newtable.fits",contour={},zoom=1,axes={},out="")
