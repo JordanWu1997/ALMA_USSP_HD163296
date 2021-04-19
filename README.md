@@ -1,4 +1,13 @@
-# radmc3d_model_HD163296
+# RADMC3D_model_HD163296
+- This is exercise for RADMC3D simulation (https://github.com/dullemond/radmc3d-0.41)
+- In this work, I tried to reproduce the results in Rosenfeld 2013, Isella 2016 simulation about 
+  HD163296 (https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HD+163296)
+
+## Setup - Python package
+- RADMC3D - 0.4
+- Python  - 3.x
+- Aplpy   - 1.0
 
 ## Model 1 - Rosenfeld 2013
 ## Model 2 - Isella 2016
+## Model 3 - CO line simulation of HD163296
